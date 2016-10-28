@@ -7,6 +7,6 @@ CSS
 JavaScript
 JQuery
 
-to play the game you have to simply clone or download the zip file and then click the index,html file
+To play the game you have to simply clone or download the zip file and then click the index.html file
 
 Happy Playing!!!
